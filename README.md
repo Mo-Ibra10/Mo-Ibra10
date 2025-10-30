@@ -1,10 +1,15 @@
 <h1 align="center">Hi there, I'm Mohamed 👋</h1>
 
 ### 👨‍💻 About Me
-I'm a **Back-end Developer** specializing in **Node.js & Express.js**.  
-I love building scalable REST APIs and learning more about system design and microservices.
+I'm a passionate **Back-end Developer** specialized in **Node.js** and **Express.js**.  
+I focus on building reliable, secure, and scalable REST APIs that power modern web and mobile applications.  
 
----
+I enjoy designing clean backend architectures, working with **databases** like MongoDB, and integrating third-party services such as payment gateways and authentication providers.  
+
+I’m constantly learning about **system design**, **microservices**, and **deployment workflows** to deliver high-performance and maintainable applications.  
+
+💡 My goal is to craft backend systems that are not just functional — but efficient, elegant, and easy to scale.
+
 
 ### 🛠️ Tech Stack
 #### 🔹 Back-end
